@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "description": "demonstrates problem at loader",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iambumblehead/nodejs-resolve-hook-incomplete-parenturl-async-builtin-import.git"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
